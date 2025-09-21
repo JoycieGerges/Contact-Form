@@ -24,11 +24,6 @@ This project demonstrates how to create a clean, modern, and mobile-friendly for
 
 ---
 
-## 📷 Preview
-![Contact Form Screenshot](screenshot.png)
-
----
-
 ## 📂 Project Structure
 contact-form/
 │── index.html
