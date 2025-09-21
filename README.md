@@ -43,13 +43,20 @@ contact-form/
 4.If inputs are empty or invalid, error messages will appear.
 
 
-📌 Future Improvements
+##📌 Future Improvements
 
 - Add backend integration with PHP or Node.js to actually send messages.
 - Connect to an Email API (e.g., EmailJS, SendGrid) to deliver messages.
 - Add animations for smoother user experience.
 
-👩‍💻 Author
+---
 
-Created by joycie gerges wanes 🚀
-Feel free to contribute or suggest improvements!
+##🧠 Author
+
+Developed by Joycie Gerges
+
+📧 Email: joyciegerges@gmail.com
+
+🌐 Portfolio: https://joycieportfolio.netlify.app/
+
+🔗 LinkedIn: www.linkedin.com/in/joycie-gerges-b45514248
