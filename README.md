@@ -38,12 +38,15 @@ contact-form/
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/contact-form.git
+   
 2.Open index.html in your browser.
+
 3.Fill out the form and click Send Message.
+
 4.If inputs are empty or invalid, error messages will appear.
 
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
 - Add backend integration with PHP or Node.js to actually send messages.
 - Connect to an Email API (e.g., EmailJS, SendGrid) to deliver messages.
@@ -51,7 +54,7 @@ contact-form/
 
 ---
 
-##🧠 Author
+## 🧠 Author
 
 Developed by Joycie Gerges
 
